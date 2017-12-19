@@ -4,7 +4,7 @@ Programming and deploying a static site because I'm bored.
 ## Cloning
 :warning: Git IS required for this to work. 
 
-Git can be downloaded at: https://git-scm.com
+Git can be downloaded from: https://git-scm.com
 
 &nbsp;
 
