@@ -1,7 +1,7 @@
-# static-site
+# Static Site
 Programming and deploying a static site because I'm bored.
 
-# Cloning
+## Cloning
 :warning: Git IS required for this to work. 
 
 Git can be downloaded at: https://git-scm.com
