@@ -1,8 +1,14 @@
-#about {
-  color: lightgray;
+.about {
+  color: black;
   font-family: 'Roboto', sans-serif;
+  text-align: center;
+
 }
 
-body {
-  background-image: url("../img/landscape.jpg");
+html {
+  background: url("../img/2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }  
