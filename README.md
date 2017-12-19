@@ -2,6 +2,9 @@
 Programming and deploying a static site because I'm bored.
 
 # Cloning
+:warning: Git IS required for this to work. 
+Git can be downloaded at: https://git-scm.com
+
 > Click "Clone or download" and then click the tiny clipboard icon next to the clone URL. 
 ![](https://cdn.discordapp.com/attachments/356015479636230144/392501862013730816/unknown.png)
 ![](https://cdn.discordapp.com/attachments/356015479636230144/392502397194338306/unknown.png)
