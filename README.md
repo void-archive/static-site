@@ -18,7 +18,7 @@ Step 2:
 ![](https://cdn.discordapp.com/attachments/356015479636230144/392503069696589827/unknown.png)
 
 Step 3:
-> Then, assuming your terminal/cmd is still open, type `git clone https://github.com/DudeVoid/static-site.git`.
+> Then, assuming your terminal/cmd is still open, type `git clone` and paste the URL you copied before, it should look like the following: `git clone https://github.com/DudeVoid/static-site.git`.
 ![](https://cdn.discordapp.com/attachments/356015479636230144/392503340078071808/unknown.png)
 
 &nbsp;
